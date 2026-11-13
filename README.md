@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=A371F7&center=true&vCenter=true&width=520&lines=Computer+Engineering+%40+Erciyes+University;Building+full-stack+apps+with+Java+%26+React;Curious+about+backend%2C+systems+%26+AI;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=A371F7&center=true&vCenter=true&width=520&lines=Computer+Engineering+%40+Erciyes+University;Building+full-stack+apps+with+Java+%26+React;Into+robotics+%26+autonomous+systems;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <br>
@@ -14,8 +14,9 @@
 
 ```java
 public class Salih {
-    String  location   = "Kayseri, Türkiye";
+    String  location   = "Ankara, Türkiye";
     String  education  = "B.Sc. Computer Engineering @ Erciyes University";
+    String[] interests = { "Robotics", "Autonomous Systems", "Backend" };
     String[] currently = { "Spring Boot", "React", "Docker" };
     String  goal       = "Turn ideas into clean, working software";
 }
@@ -23,6 +24,7 @@ public class Salih {
 
 - 🎓 Computer Engineering student who enjoys building things end to end
 - 🛠️ Recently built a **Dockerized database admin panel** with Spring Boot, React & PostgreSQL
+- 🤖 Passionate about **robotics & autonomous systems** — from simulation to real-world control
 - 🌱 Exploring backend architecture, clean code and the tools around it
 - 🤝 Open to internships, team projects and open-source collaboration
 
