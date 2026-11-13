@@ -33,7 +33,13 @@ public class Salih {
 ### 🧰 Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,docker,git,github,linux,idea,vscode&perline=13" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,py,ros,spring,react,postgres,docker,linux,git" alt="Tech stack" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2">
+  <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge" alt="Gazebo">
+  <img src="https://img.shields.io/badge/RViz-2C3E50?style=for-the-badge" alt="RViz">
+  <img src="https://img.shields.io/badge/Nav2-1F6FEB?style=for-the-badge" alt="Nav2">
 </p>
 
 <br>
@@ -41,6 +47,20 @@ public class Salih {
 ### 🚀 Featured projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🚙 Autonomous UGV — Teknofest İKA &nbsp;<img src="https://img.shields.io/badge/🔒_Private-30363D?style=flat-square" alt="Private"></h4>
+      <p>Software for an autonomous unmanned ground vehicle built for the Teknofest İKA competition. A ROS 2 + Gazebo simulation with a custom race track (slopes, barriers, road signs), 3D LiDAR processing, PID-based autonomous driving and Nav2 navigation — plus a full URDF model of the vehicle.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square" alt="Gazebo">
+        <img src="https://img.shields.io/badge/Nav2-1F6FEB?style=flat-square" alt="Nav2">
+        <img src="https://img.shields.io/badge/3D_LiDAR-8250DF?style=flat-square" alt="3D LiDAR">
+        <img src="https://img.shields.io/badge/PID_Control-BF3989?style=flat-square" alt="PID Control">
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🗄️ <a href="https://github.com/salihbyrktr/dbadmin">dbadmin</a></h4>
