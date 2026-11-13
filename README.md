@@ -73,11 +73,12 @@ public class Salih {
     </td>
     <td width="50%" valign="top">
       <h4>🤖 <a href="https://github.com/salihbyrktr/robot-supurge-simulasyonu">robot-supurge-simulasyonu</a></h4>
-      <p>A simulation of an autonomous robot vacuum: movement inside a room, obstacle detection and cleaning logic, visualized in real time through a GUI.</p>
+      <p>A JavaFX simulation of an autonomous robot vacuum: obstacle avoidance, three cleaning algorithms, battery management and BFS pathfinding back to the charging station.</p>
+      <p><sub>🎓 Team course project · BZ 214 Visual Programming · Erciyes University</sub></p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/Simulation-8250DF?style=flat-square" alt="Simulation">
-        <img src="https://img.shields.io/badge/GUI-0969DA?style=flat-square" alt="GUI">
+        <img src="https://img.shields.io/badge/JavaFX-0969DA?style=flat-square" alt="JavaFX">
+        <img src="https://img.shields.io/badge/BFS_Pathfinding-8250DF?style=flat-square" alt="BFS Pathfinding">
       </p>
     </td>
   </tr>
