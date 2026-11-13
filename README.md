@@ -36,7 +36,6 @@ public class Salih {
   <img src="https://skillicons.dev/icons?i=java,py,ros,spring,react,postgres,docker,linux,git" alt="Tech stack" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2">
   <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge" alt="Gazebo">
   <img src="https://img.shields.io/badge/RViz-2C3E50?style=for-the-badge" alt="RViz">
   <img src="https://img.shields.io/badge/Nav2-1F6FEB?style=for-the-badge" alt="Nav2">
