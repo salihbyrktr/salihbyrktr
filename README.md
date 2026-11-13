@@ -23,7 +23,7 @@ public class Salih {
 ```
 
 - 🎓 Computer Engineering student who enjoys building things end to end
-- 🛠️ Recently built a **Dockerized database admin panel** with Spring Boot, React & PostgreSQL
+- 💼 Built a full-stack **database admin panel** during my internship — Spring Boot, React, Redis, RabbitMQ & full observability
 - 🤖 Passionate about **robotics & autonomous systems** — from simulation to real-world control
 - 🌱 Exploring backend architecture, clean code and the tools around it
 - 🤝 Open to internships, team projects and open-source collaboration
@@ -63,11 +63,15 @@ public class Salih {
   <tr>
     <td width="50%" valign="top">
       <h4>🗄️ <a href="https://github.com/salihbyrktr/dbadmin">dbadmin</a></h4>
-      <p>A Dockerized database admin panel. Spring Boot REST backend, React frontend, PostgreSQL storage — everything spins up with a single <code>docker compose</code>.</p>
+      <p>Manage a real PostgreSQL database from a web UI — every change updates both the metadata and the actual schema. JWT auth, Redis caching, real-time notifications over RabbitMQ + WebSocket, audit log with MinIO backups, and full observability (Prometheus, Grafana, Loki, Tempo).</p>
+      <p><sub>💼 Internship project · Testcontainers & Playwright tests · one-command <code>docker compose</code> setup</sub></p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
       </p>
     </td>
@@ -100,6 +104,5 @@ public class Salih {
 
 <p align="left">
   <a href="https://github.com/salihbyrktr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <!-- LinkedIn hesabın varsa aşağıdaki satırın başındaki/sonundaki yorum işaretlerini kaldır ve linki düzelt -->
-  <!-- <a href="https://www.linkedin.com/in/KULLANICI-ADIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+  <a href="https://www.linkedin.com/in/salih-bayraktar-1634642b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
