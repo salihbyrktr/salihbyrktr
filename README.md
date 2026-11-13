@@ -15,7 +15,7 @@
 ```java
 public class Salih {
     String  location   = "Ankara, Türkiye";
-    String  education  = "B.Sc. Computer Engineering @ Erciyes University";
+    String  education  = "Computer Engineering student @ Erciyes University";
     String[] interests = { "Robotics", "Autonomous Systems", "Backend" };
     String[] currently = { "Spring Boot", "React", "Docker" };
     String  goal       = "Turn ideas into clean, working software";
